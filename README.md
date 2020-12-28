@@ -1,5 +1,5 @@
 # SF Dispatched
 
 ## Component Hierarchy
-![alt text](src/component_hierarchy.jpeg)
+![alt text](src/Screenshot 2020-12-28 175904.jpg)
 
